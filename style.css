@@ -1,4 +1,29 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
 h1 {
-    background-color: darkblue;
+    background-color: #20315A;
     color: white;
+    font-size: 20px;
+    padding: 20px;
+    margin-bottom: 10px;
+}
+
+#searches {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #2C3E50;
+    max-width: 400px;
+}
+
+h3 {
+    color: white;
+    background-color: #2C3E50;
+    padding: 10px;
+}
+
+input {
+    width: 100%;
+    padding: 10px;
 }
